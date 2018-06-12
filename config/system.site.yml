@@ -1,0 +1,14 @@
+uuid: 7f2433b8-1505-44da-bda6-b7c7e190e98a
+name: masterfind-d8
+mail: anthony.malkoun@eurekareport.com.au
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
